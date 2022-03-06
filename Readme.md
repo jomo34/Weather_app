@@ -1,6 +1,6 @@
-# weather-app
-
+# Weather_app
 ![](https://images.velog.io/images/jomo34/post/9f921934-f0c1-41e3-bf31-b4723bda6b30/image.png)
+> Nomad coder.co의 "왕초보를 위한 React Native 101"를 시청하고 공부한 예제입니다.
 
 ### 세개의 state
 
